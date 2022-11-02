@@ -1,0 +1,13 @@
+altgraph==0.17.3
+autopep8==1.7.1
+colorama==0.4.6
+colored==1.4.3
+future==0.18.2
+pefile==2022.5.30
+pyasn1==0.4.8
+pycodestyle==2.9.1
+pyinstaller==5.6.1
+pyinstaller-hooks-contrib==2022.11
+pywin32-ctypes==0.2.0
+rsa==4.9
+tomli==2.0.1
