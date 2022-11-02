@@ -1,0 +1,10 @@
+CAUTION: This is for those people who can manage environment variables in Windows
+
+1. Extract AES.zip (N.B.: please extract the zip as 'extract here')
+2. confirmation: After extraction a folder will be created of name AES
+3. Now move the AES folder to "C:\Program Files\"
+4. Open environment variables in Advance System Sharing
+	a. Create a new variable {"AES_HOME": "C:\Program Files\AES"}
+	b. Add two new path
+		i. %AES_HOME%\en\dist\aes-en\
+		ii. %AES_HOME%\de\dist\aes-de\
